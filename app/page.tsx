@@ -88,7 +88,7 @@ export default function CategoriesPage() {
           {filteredCategories.length} of {categories.length} categories found
           {searchTerm && (
             <span>
-              {' '}for &aps;<span className="text-white">{searchTerm}</span>&ps;
+              {' '}for &apos;<span className="text-white">{searchTerm}</span>&apos;
             </span>
           )}
         </p>
