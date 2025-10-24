@@ -56,7 +56,7 @@ export default function CategoryNomineesPage({ params }: PageProps) {
     <div className="min-h-screen bg-[#0A0A0A] text-gray-100 py-10 px-4 sm:px-6 lg:px-8">
       <div className="max-w-7xl mx-auto">
         <Link
-          href="/tca"
+          href="/"
           className="inline-flex items-center text-blue-400 hover:text-blue-300 mb-6 transition-colors duration-200"
         >
           <svg
